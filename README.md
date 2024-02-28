@@ -14,7 +14,7 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 ```
 
 <h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
-<p align="center"><a href="https://github.com/medoybtrj/PyroMan-Userbot.html"><img src="https://github.com/medoybtrj/PyroMan-Userbot?tab=readme-ov-file" target="_blank"/></a></p>
+<p align="center"><a href="https://risman.vercel.app/deploy-pyro.html"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
 ## 🏷 Support
 
 - Follow Channel [https://t.me/KegabutanDoy)
@@ -34,4 +34,4 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 -  [Toni](https://github.com/Toni880) : Prime-UserBot
 
 ## 📑 License
-Licensed under [GNU General Public License v3.0](https://github.com/medoybtrj/PyroMan-Userbot.git/LICENSE) All designs were created by [@mrismanaziz](https://github.com/mrismanaziz)
+Licensed under [GNU General Public License v3.0](https://github.com/mrismanaziz/PyroMan-Userbot/blob/Man-Userbot/LICENSE) All designs were created by [@mrismanaziz](https://github.com/mrismanaziz)
